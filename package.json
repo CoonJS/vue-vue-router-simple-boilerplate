@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoonJs/vue-vue-router-simple-boilerplate.git"
+    "url": "git+https://github.com/CoonJS/vue-vue-router-simple-boilerplate.git"
   },
   "keywords": [
     "vue",
@@ -20,9 +20,9 @@
   "author": "babanov.js@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CoonJs/vue-vue-router-simple-boilerplate/issues"
+    "url": "https://github.com/CoonJS/vue-vue-router-simple-boilerplate/issues"
   },
-  "homepage": "https://github.com/CoonJs/vue-vue-router-simple-boilerplate#readme",
+  "homepage": "https://github.com/CoonJS/vue-vue-router-simple-boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
