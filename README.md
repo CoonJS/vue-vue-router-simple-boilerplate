@@ -1,1 +1,1 @@
-# Basic boilerplate for starting projects
+# Basic vue, vue-router boilerplate for starting projects
