@@ -1,0 +1,1 @@
+# Basic boilerplate for starting projects
