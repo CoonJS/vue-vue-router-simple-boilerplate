@@ -1,11 +1,11 @@
 <template>
-    <div>Page A</div>
+    <div>
+        <h1>Page A</h1>
+    </div>
 </template>
 
 <script>
-  export default {
-
-  }
+  export default {}
 </script>
 
 <style scoped>
