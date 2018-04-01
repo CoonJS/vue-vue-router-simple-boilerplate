@@ -17,6 +17,8 @@ npm run build
 
 > You will have your production code in `dist` directory
 
+### preview
+
 ![Preview](https://github.com/CoonJS/vue-vue-router-simple-boilerplate/blob/master/src/assets/Preview.png?raw=true "Preview")
 
 
